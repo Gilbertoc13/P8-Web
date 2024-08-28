@@ -1,0 +1,20 @@
+nav li {
+    display: inline-block;
+    width: 20vw;
+    background: purple;
+    color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+section {
+    display: inline-block;
+    width: 45vw;
+    margin: 5vw;
+    background-color: purple;
+    color: aliceblue;
+    border: 1px solid;
+    box-shadow: 2px 4px 10px black;
+
+}
